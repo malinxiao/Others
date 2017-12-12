@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "chart-js-web-part-client-side-solution",
+    "id": "73fbcec4-741b-48d4-8eb9-ce5c47d91438",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/chart-js-web-part.spapp"
+  }
+}

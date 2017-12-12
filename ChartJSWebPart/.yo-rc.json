@@ -1,0 +1,7 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "libraryName": "chart-js-web-part",
+    "libraryId": "73fbcec4-741b-48d4-8eb9-ce5c47d91438",
+    "framework": "react"
+  }
+}

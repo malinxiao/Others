@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "7ce98f2f-572f-4acb-9681-21d05cbbad7c",
+  "alias": "ChartJsWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "7ce98f2f-572f-4acb-9681-21d05cbbad7c",
+    "group": { "default": "Under Development" },
+    "title": { "default": "ChartJS" },
+    "description": { "default": "Using Chart.JS in Client Web Part" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "chartType": "bar"
+    }
+  }]
+}
